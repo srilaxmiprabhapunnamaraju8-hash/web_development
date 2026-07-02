@@ -1,0 +1,32 @@
+h1{
+    color:#ffa511;
+    text-decoration: teal double underline;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    font-family: league spartan;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    
+}
+h2{
+    text-align: left;
+    font-weight:400;
+    text-decoration: blue dashed underline;
+}
+h3{
+    text-align: right;
+    text-decoration: mediumturquoise overline;
+     letter-spacing: 4px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    line-height:2;
+    /* font-size : 4px; */
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+   
+}
